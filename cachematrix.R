@@ -3,6 +3,8 @@
 
 ## This function calculates the inverse of the matrix and stores it to the cache
 
+# I originally wrote this code 5 months ago, i'm now retaking the course as part of the whole Data Science specialisation.
+
 makeCacheMatrix <- function(x = matrix()) {
 
   # empty cache
